@@ -1,0 +1,40 @@
+Question,Category
+"What is another name for x?",alternatename
+"Are there alternate names for x?",alternatename
+"Are there alternate names for x?",alternatename
+"Psuedonyms x",alternatename
+"Names x",alternatename
+"How do I plant x?",sowinstructions
+"How do I plant x seeds?",sowinstructions
+"How do I grow x?",sowinstructions
+"How do I sow x?",sowinstructions
+"How do I plant x?",sowinstructions
+"How far apart can x be?",spaceinstructions
+"How far apart should you plant x?",spaceinstructions
+"What is the correct spacing for x?",spaceinstructions
+"How far apart should x be?",spaceinstructions
+"When should you harvest x?",harvestinstructions
+"How often should you harvest x?",harvestinstructions
+"When do you harvest x?",harvestinstructions
+"When should you pick x?",harvestinstructions
+"Harvesting x",harvestinstructions
+"Can x be planted with y?",compatibleplants
+"What can x be planted with?",compatibleplants
+"What plants are x compatible with?",compatibleplants
+"What should I avoid for growing x?",avoidinstructions
+"What shouldn't I do for x?",avoidinstructions
+"What to avoid x",avoidinstructions
+"What can't x be planted with?",avoidinstructions
+"How do I cook x?",culinaryhints
+"What can I make with x?",culinaryhints
+"How do I prepare x?",culinaryhints
+"How do I eat x?",culinaryhints
+"How do you cook x?",culinaryhints
+"How do you prepare x?",culinaryhints
+"How do you eat x?",culinaryhints
+"How do I keep x?",culinarypreservation
+"Can I freeze x?",culinarypreservation
+"Can I dry x?",culinarypreservation
+"How do I preserve x?",culinarypreservation
+"Where can I find more information about x?",url
+"What is the source for this?",url
